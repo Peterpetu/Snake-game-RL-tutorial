@@ -1,1 +1,1 @@
-# Snake-game-RL-tutorial
+This is a FreeCodeAcademy Python snake game Reinforcement tutorial.
